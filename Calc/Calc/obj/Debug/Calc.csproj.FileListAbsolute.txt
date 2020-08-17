@@ -1,0 +1,10 @@
+C:\C#\Summer\Calc\Calc\bin\Debug\Calc.exe.config
+C:\C#\Summer\Calc\Calc\bin\Debug\Calc.exe
+C:\C#\Summer\Calc\Calc\bin\Debug\Calc.pdb
+C:\C#\Summer\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+C:\C#\Summer\Calc\Calc\obj\Debug\Calc.Form1.resources
+C:\C#\Summer\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\C#\Summer\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+C:\C#\Summer\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\C#\Summer\Calc\Calc\obj\Debug\Calc.exe
+C:\C#\Summer\Calc\Calc\obj\Debug\Calc.pdb
