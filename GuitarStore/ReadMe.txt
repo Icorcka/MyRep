@@ -1,0 +1,1 @@
+Hi, this is my project where I have created simple guitar shop. This project is a usual ASP.NET CORE Web app with CRUD operations.
