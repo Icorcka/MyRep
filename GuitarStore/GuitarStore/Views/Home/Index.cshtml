@@ -1,0 +1,25 @@
+﻿@model IEnumerable<GuitarStore.Models.Guitar>
+@{
+
+    ViewData["Title"] = "Каталог товаров";
+}
+<h3>Гитары</h3>
+<table>
+    <tr>
+        <td>Модель</td>
+        <td>Производитель</td>
+        <td>Тип</td>
+        <td>Цена</td>
+        <td></td>
+    </tr>
+    @foreach (var guitar in Model)
+    {
+        <tr>
+            <td>@guitar.Name</td>
+            <td>@guitar.Producer</td>
+            <td>@guitar.Type</td>
+            <td>@guitar.Price</td>
+            <td><a href="~/Home/Buy/@guitar.Id">Купить</a></td>
+        </tr>
+    }
+</table>
